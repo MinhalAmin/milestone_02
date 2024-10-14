@@ -20,10 +20,10 @@ body {
   border-right: 5px solid #39bee6;
 }
 .profile-picture {
-  width: 150px;
-  height: 150px;
+  width: 160px;
+  height: 200px;
   margin-top: 10%;
-  border-radius: 50%;
+  border-radius:50% ;
   background-origin: 5px solid #39bee6;
   margin-bottom: 20px;
 }
